@@ -10,3 +10,4 @@ __pycache__
 dist
 src/pybefit.egg-info/
 build
+.venv
